@@ -1,0 +1,2 @@
+# pomoika
+Learning of Python.
